@@ -11,3 +11,7 @@ Los diccionarios al igual que las listas son listados de valores, pero que se ac
 
 ## Misión
 Cuando termines el laboratorio agrega un link al repositorio.
+
+[Misión cumplida](https://github.com/A200lss/lists_and_dicts)
+
+
